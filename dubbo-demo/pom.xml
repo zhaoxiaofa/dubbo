@@ -34,6 +34,10 @@
         <module>dubbo-demo-consumer</module>
         <module>xiaofa-dubbo-xml-provider</module>
         <module>xiaofa-dubbo-xml-consumer</module>
+        <module>xiaofa-dubbo-api-provider</module>
+        <module>xiaofa-dubbo-api-consumer</module>
+        <module>xiaofa-dubbo-annotation-provider</module>
+        <module>xiaofa-dubbo-annotation-consumer</module>
     </modules>
 
     <dependencyManagement>
